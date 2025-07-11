@@ -1,0 +1,48 @@
+Generating simplified gitignore-aware tree view using pathspec...
+. (BackupHome)
+├── .git
+├── .venv
+├── Docs
+│   ├── Daily
+│   │   └── 2025-07-10
+│   ├── Development
+│   │   └── Some gitignore Rules.txt
+│   ├── Guides
+│   ├── Misc
+│   ├── Standards
+│   │   ├── Design Standard v1.8.md
+│   │   ├── Design Standard v1.8a.md
+│   │   ├── Design Standard v1.9.md
+│   │   ├── Design Standard v2.0.md
+│   │   └── Design Standard v2.1.md
+│   └── Updates
+├── Scripts
+│   ├── Deployment
+│   │   └── UpdateFiles.py
+│   ├── Development
+│   ├── GitHub
+│   │   ├── BackToTheFuture.sh
+│   │   ├── GitHubAutoUpdate.py
+│   │   ├── GitHubInitialCommit.py
+│   │   ├── GitHubTimeMachine.py
+│   │   ├── GitHubUpdateSite.py
+│   │   └── TimeTraveiGitHub.py
+│   ├── Maintenance
+│   ├── Migration
+│   ├── System
+│   │   ├── __pycache__
+│   │   ├── BackupProject.py
+│   │   ├── BackupTemp.py
+│   │   ├── CodebaseSum.py
+│   │   ├── GPU OCR Speed Test.py
+│   │   ├── ListFilesByDate.py
+│   │   ├── ListNewPy.py
+│   │   ├── MarkdownToText.py
+│   │   ├── NewPyDump.py
+│   │   ├── SimpleTree.py
+│   │   ├── VerifyIgnore.py
+│   │   └── update_site.bat
+│   └── ThisApplication
+├── Updates
+├── .gitignore
+└── BasicTree.txt
