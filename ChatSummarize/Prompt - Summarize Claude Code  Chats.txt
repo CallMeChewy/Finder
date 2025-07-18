@@ -1,0 +1,29 @@
+Please read files in /home/herb/Desktop/Claude Conversations/
+Create a hyper link document that provides an index with each chat document. Create a separate section for each file with sub header and a detailed summary of User and AI comments.
+Subject is appropriate heading for session or individual topic being summarized.
+below is the format for the index and each body:
+
+Summary of Claude Chats for 12-31-2025 thru mm=dd=yyyy
+
+Date [Current date and time] (Format:31-2024 12:34 PM)
+
+Session  ---------- Date ----------  --------------- Subject ---------------
+0001     31-2024 12:34 PM - Monday - The main topic is...  <link: session>
+0001-01  31-2024 12:34 PM - Monday - Subject Number one--- <link: subject>
+0001-02  31-2024 12:34 PM - Monday - Subject number two...
+
+----------------------------------------------------------------------------
+<link: Back to index>
+0001 12-31-2024 12:34 PM - Monday - The main topic is...
+0001-01 Subject Number one---  <link: subject one>
+0001-02 Subject number two...  <link: subject two>
+
+01 Subject Number one---
+User: summary of subject
+  AI: summary of subject
+
+02 Subject Number two---
+User: summary of subject
+  AI: summary of subject
+
+----------------------------------------------------------------------------
