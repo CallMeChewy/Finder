@@ -37,6 +37,12 @@ The codebase is organized into functional script categories:
 - **Scripts/DataBase/** - Database migration and porting tools
 - **Scripts/Tools/** - Miscellaneous utility tools
 
+## 🚨 MANDATORY DESIGN STANDARD COMPLIANCE
+
+**EVERY NEW SESSION MUST ACKNOWLEDGE STANDARDS COMPLIANCE BEFORE PROCEEDING**
+
+See: STANDARDS_ENFORCEMENT.md for detailed requirements.
+
 ## Design Standard Requirements
 
 **CRITICAL**: All files must follow Design Standard v2.1 with mandatory header format:
