@@ -1,0 +1,6 @@
+# Common Python requirements
+pathlib
+psutil
+watchdog
+requests
+pathspec
